@@ -23,6 +23,11 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram.cd">
+      <Filter>Fichiers sources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="carre.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
